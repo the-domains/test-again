@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Storage box for spices, used in households all over India'
-datePublished: '2016-01-25T19:01:02.592Z'
+datePublished: '2016-01-25T19:01:02.599Z'
 dateModified: '2016-01-25T19:00:54.702Z'
 title: Masala Box
 author: []
